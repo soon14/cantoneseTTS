@@ -1,0 +1,17 @@
+setup.py
+src/cantoneseTTS/__init__.py
+src/cantoneseTTS/api.py
+src/cantoneseTTS/can_phone_dict.py
+src/cantoneseTTS/config.py
+src/cantoneseTTS/create_can_dict.py
+src/cantoneseTTS/create_can_dict2.py
+src/cantoneseTTS/eng_diphone_synth.py
+src/cantoneseTTS/process_phone_dict.py
+src/cantoneseTTS/process_phone_dict_perc.py
+src/cantoneseTTS/simpleaudio.py
+src/cantoneseTTS/word_syn.py
+src/cantoneseTTS/word_syn_api_lib.py
+src/cantoneseTTS.egg-info/PKG-INFO
+src/cantoneseTTS.egg-info/SOURCES.txt
+src/cantoneseTTS.egg-info/dependency_links.txt
+src/cantoneseTTS.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+certifi==2019.6.16
+jieba==0.39
+numpy==1.17.2
+opencc-python-reimplemented==0.1.5
+pkuseg==0.0.22
+PyAudio==0.2.11
+pycantonese==2.2.0
+pylangacq==0.10.0
+simpleaudio==1.0.2
